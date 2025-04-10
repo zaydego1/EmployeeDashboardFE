@@ -1,0 +1,13 @@
+.chart-container {
+    background: white;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+  }
+  
+  .chart-container h3 {
+    margin-top: 0;
+    font-size: 1.25rem;
+    color: #333;
+  }
